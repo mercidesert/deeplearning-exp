@@ -1,0 +1,5 @@
+﻿cifar-10-data/
+__pycache__/
+*.pyc
+*.tar.gz
+.vscode/
